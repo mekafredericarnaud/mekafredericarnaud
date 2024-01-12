@@ -15,6 +15,5 @@
 [<img align="left" alt="Frederic | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Frederic | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/Frederic
-[instagram]: https://www.instagram.com/Frederic
+[instagram]: https://https://www.instagram.com/fredericarnaudmeka
 [linkedin]: https://linkedin.com/in/Frederic
